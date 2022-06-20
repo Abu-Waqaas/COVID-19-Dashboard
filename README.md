@@ -2,6 +2,9 @@
 The file was gotten from a GitHub profile through the link below
 https://aka.ms/30DLCOVID19GitHubData
 ...
+
+
+
 # Project Objective ( Problem Statement)
 The aim of this project is to know the countries that has the highest rate of Confirmed case and death case, so as to know the country that's safe and the country that still needs high rate of attention for Covid
 
