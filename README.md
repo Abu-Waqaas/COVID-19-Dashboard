@@ -21,6 +21,15 @@ SO, everything were merge in a single sheet called Consolidated sheet, and I als
 # Analysis 
 The data was analyzed using Microsoft Excel with the use of Pivot table and different visuals were made from it and some insights were gotten from it, and this is the Dashboard we created in the visuals
 
+
+
+
+
+
+
+
+![Screenshot (87)](https://user-images.githubusercontent.com/106377378/174711176-efd9160b-bb40-47f0-ad74-2619a8a54d62.png)
+
 # Observation
 According to the report it shows that U.S are leading the list of country with the highest number of confirm cases with 2,735,2560,275 cummulatively
 And the report also shows that U.S has the highest number of reported death cases 418,983,541 cummulatively.
